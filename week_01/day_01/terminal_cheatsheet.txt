@@ -1,5 +1,5 @@
 ls - list files
-cd - copy 
+cp - copy 
 pwd - see current directory
 touch - create file
 rm -rf - delete file

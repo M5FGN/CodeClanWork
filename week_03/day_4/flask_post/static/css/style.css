@@ -1,0 +1,42 @@
+body{
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    margin: 0;
+}
+
+h1 {
+    color: red;
+}
+
+nav > ul {
+    display: flex;
+    padding: 20px;
+    background-color: grey;
+    margin: 0;
+}
+
+nav > ul > li {
+    padding-right: 40px;
+    list-style-type: none;
+}
+
+nav > ul > li > a {
+    text-decoration: none;
+    color: white;
+}
+
+form {
+    display: inline;
+}
+
+input {
+    font-size: 14px;
+    box-sizing: border-box;
+    margin: 10px;
+    padding: 10px;
+}
+
+input[type=submit] {padding: 5px 15px; 
+        background-color: pink;
+        border: 0 none;
+}

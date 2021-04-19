@@ -1,0 +1,33 @@
+{% extends "base.html" %}
+{% block content %}
+
+<!-- Will create a new Div for every task -->
+
+{% for task in all_tasks %}
+  <div class="task">
+    <div class="content">
+      {{task.user.first_name}}
+      <div class="description">
+        <!-- Adding a link to the task description so that it loads a page to show the task only -->
+        <a href="/tasks/{{task.id}}">{{task.description}}</a>
+        <span class="duration">{{task.duration}} mins</span>
+      </div>
+      <div class="buttons">
+        <!-- Adding the Delete button to each task -->
+        <form class="delete-form" action="/tasks/{{task.id}}/delete" method="POST"> <!-- NEW -->
+          <button class="trash-button"><i class="fa fa-trash-o fa-3x" style="color:red" aria-hidden="true"></i></button> <!-- NEW -->
+        </form>
+
+        {% if task.completed == True %}
+          <i class="fa fa-check fa-2x" style="color:green" aria-hidden="true"></i>
+        {% else %}
+          <i class="fa fa-times fa-2x" aria-hidden="true"></i>
+        {% endif %}
+
+      </div>
+    </div>
+  </div>
+  
+{% endfor %}
+
+{% endblock %}

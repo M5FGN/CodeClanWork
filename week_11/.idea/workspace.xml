@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b37aeadf-0c43-4fbf-8e46-16ce2968e5ba" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/day01/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01/IntroToJava/IntroToJava.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01/Planets/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01/Planets/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01/Planets/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01/Planets/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01/Planets/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01/Planets/Planets.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01/Planets/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01/Planets/src/main/java/Planet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01/Planets/src/main/java/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01/Planets/src/test/java/PlanetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01/java/.idea/java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01/java/day01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/Arrays/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/Arrays/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/Arrays/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/Arrays/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/Arrays/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/Arrays/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/Arrays/src/main/java/HashMaps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/Arrays/src/main/java/NumberList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/Arrays/src/main/java/WordCollection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/Arrays/src/test/java/HashMapsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/Arrays/src/test/java/NumberListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/Arrays/src/test/java/WordCollectionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/Populations/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/Populations/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/Populations/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/Populations/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/Populations/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/Populations/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/Populations/src/main/java/Population.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week_07/day02/munros" beforeDir="false" afterPath="$PROJECT_DIR$/../week_07/day02/munros" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week_07/day02/use_effect" beforeDir="false" afterPath="$PROJECT_DIR$/../week_07/day02/use_effect" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week_08/Day02/mongodb_with_server_games/client/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/../week_08/Day02/mongodb_with_server_games/client/.eslintcache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week_08/Day02/mongodb_with_server_games/client/src/GameForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/../week_08/Day02/mongodb_with_server_games/client/src/GameForm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week_08/Day02/mongodb_with_server_games/server/helpers/create_router.js" beforeDir="false" afterPath="$PROJECT_DIR$/../week_08/Day02/mongodb_with_server_games/server/helpers/create_router.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week_08/Day02/mongodb_with_server_games/server/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../week_08/Day02/mongodb_with_server_games/server/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week_08/Day02/mongodb_with_server_games/server/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../week_08/Day02/mongodb_with_server_games/server/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week_08/Day02/mongodb_with_server_games/server/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/../week_08/Day02/mongodb_with_server_games/server/server.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1shj5EFGONHzvHOXWal3bHnU2ve" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b37aeadf-0c43-4fbf-8e46-16ce2968e5ba" name="Default Changelist" comment="" />
+      <created>1621331529991</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621331529991</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

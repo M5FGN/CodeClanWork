@@ -20,7 +20,7 @@ const GameForm = ({addGame}) =>{
     return (
         <form className="" onSubmit={handleSubmit} method="post">
             <label htmlFor="name">Name:</label>
-            <input  onChange={onChange}type="text" id="name" v-model="name" required/>
+            <input  onChange={onChange}type="text" id="name" required/>
 
             <label htmlFor="playingTime">Playing Time:</label>
             <input  onChange={onChange}type="number" id="playingTime"  required/>

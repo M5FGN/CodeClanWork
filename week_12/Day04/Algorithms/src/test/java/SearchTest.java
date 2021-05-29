@@ -27,29 +27,29 @@ public class SearchTest {
         myNumbers.add(56);
     }
 
-//    @Test
-//    public void linearSearchFound(){
-//        boolean result = search.linearSearch(myNumbers, 9);
-//        assertTrue(result);
-//    }
-//
-//    @Test
-//    public void linearSearchNotFound(){
-//        boolean result = search.linearSearch(myNumbers, 34);
-//        assertFalse(result);
-//    }
-//
-//    @Test
-//    public void BinarySearchFound(){
-//        boolean result = search.binarySearch(myNumbers, 21);
-//        assertTrue(result);
-//    }
-//
-//    @Test
-//    public void binarySearchNotFound(){
-//        boolean result = search.binarySearch(myNumbers, 4);
-//        assertFalse(result);
-//    }
+    @Test
+    public void linearSearchFound(){
+        boolean result = search.linearSearch(myNumbers, 9);
+        assertTrue(result);
+    }
+
+    @Test
+    public void linearSearchNotFound(){
+        boolean result = search.linearSearch(myNumbers, 34);
+        assertFalse(result);
+    }
+
+    @Test
+    public void BinarySearchFound(){
+        boolean result = search.binarySearch(myNumbers, 21);
+        assertTrue(result);
+    }
+
+    @Test
+    public void binarySearchNotFound(){
+        boolean result = search.binarySearch(myNumbers, 4);
+        assertFalse(result);
+    }
 
 
 }

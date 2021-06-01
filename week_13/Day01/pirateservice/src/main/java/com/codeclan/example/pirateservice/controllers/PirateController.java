@@ -21,7 +21,7 @@ public class PirateController {
     public List<Pirate> getAllPirates(){
         return pirateRepository.findAll();
     }
-    
+
 //    SHOW
     @GetMapping(value="/pirates/{id}")
     public Optional<Pirate> getPirate(@PathVariable Long id){
